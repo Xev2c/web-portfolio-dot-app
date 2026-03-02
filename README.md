@@ -1,4 +1,4 @@
-# web-portfolio-dot-app
+# my-portfolio
 Personal portfolio website showcasing my projects, skills, and experience in web development and AI.
 create a professional and modern looking portfolio website that is clean,
 mobile-friendly, and built with html, css and include there features:
